@@ -45,7 +45,7 @@ Nextcloud est une plateforme open-source de productivité et de collaboration **
 Il vous faut une **machine dédiée** : une VM (Machine Virtuelle) ou un PC inutilisé. Installez ensuite **Ubuntu Desktop** sur cette machine.
 
 - 📥 Téléchargement d'Ubuntu Desktop : [ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
-- 📖 Guide de création de VM : [yacinehrc/Ubuntu-Desktop](https://github.com/yacinehrc/Ubuntu-Desktop) *(se référer à la section "Installation")*
+- 📖 Guide de création de VM et installation d'Ubuntu Desktop : [yacinehrc/Ubuntu-Desktop](https://github.com/yacinehrc/Ubuntu-Desktop)
 
 ---
 
