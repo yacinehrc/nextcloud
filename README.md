@@ -14,3 +14,13 @@ Nextcloud est une plateforme open-source de productivité et de collaboration su
 - Flexibilité Docker : Déploiement conteneurisé isolant les services (Nextcloud/MariaDB), facilitant les mises à jour et la portabilité.
 
 - Évolutivité : Écosystème d'applications riche (visioconférence Talk, suite Office, gestion de tâches) activable en un clic.
+
+<strong>Inconvénients</strong> :
+- Maintenance critique : Gestion interne obligatoire de la sécurité et des sauvegardes (backups) ; risque de perte de données en cas de crash.
+
+- Contrainte matérielle : Performances et vitesses de synchronisation directement liées à la bande passante et à la puissance de la machine hôte.
+---
+
+## INSTALLATION D'OS
+Tout d'abord, il vous faut soit une VM (Machine Virtuelle), soit un PC qui ne sert plus à rien. Ensuite, vous devez donc installer Ubuntu (pour ici, le modèle "Desktop" suffit largement).
+Pour l'explication de création de VM, voici mon repository explicatif sur ce sujet : <strong>(pour l'installation d'Ubuntu Desktop, il suffit d'aller sur ce repository et de descendre jusque la section "Installation")<strong>
