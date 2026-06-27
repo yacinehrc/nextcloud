@@ -57,8 +57,6 @@ Une fois Ubuntu démarré, ouvrez le menu des applications via l'icône en bas �
 
 ![Bureau Ubuntu](https://github.com/user-attachments/assets/1046e6fb-94f2-4d5b-a9e8-e4da200d9b17)
 
-![Menu des applications](https://github.com/user-attachments/assets/819e47f7-2253-49c9-85a6-7fd20de90791)
-
 ![Ouverture du Terminal](https://github.com/user-attachments/assets/1e685b39-c04b-4cb9-bcf4-e4f4ade73a40)
 
 ### 2. Mettre à jour les paquets système
